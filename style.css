@@ -1,0 +1,78 @@
+h1{
+  font-family: 'Cinzel Decorative', cursive;
+  display: block;
+  color: maroon;
+  font-size: xx-large;
+  margin-bottom: 5px;
+  margin-top: 50px;
+}
+h3{
+  font-family: 'Times New Roman';
+  display: block;
+  font-weight: 100;
+  font-size: 90%;
+}
+body{
+  background-color: #FED9B7;
+}
+.Europe1{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.Asia1{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.LatinAmerica1{
+  display: flex;
+  justify-content: space-evenly;
+}
+.usa{
+  display: flex;
+  justify-content: space-evenly;
+}
+.Africa{
+  display: flex;
+  justify-content: space-evenly;
+}
+.Aus{
+  display: flex;
+  justify-content: space-evenly;
+}
+.SEAsia{
+  display: flex;
+  justify-content: space-evenly;
+}
+.Europe2{
+  display: flex;
+  justify-content: space-evenly;
+}
+img{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  margin-top: 15px;
+  magin-bottom: 15px;
+}
+.p1{
+  margin-left: 75px;
+}
+.p4{
+  margin-right: 75px;
+}
+.r1, .r4, .r7{
+  border: 7px solid lightsalmon; 
+}
+.r2, .r5, .r8{
+  border: 7px solid #4DA1A9;
+}
+.r3, .r6{
+  border: 7px solid gray;
+}
+.title{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
